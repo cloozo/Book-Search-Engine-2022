@@ -14,7 +14,9 @@ Link to my github repo-> (https://github.com/cloozo/Book-Search-Engine-2022)
 Link to deployed App can be found here-> (https://infinite-taiga-99118.herokuapp.com/)
 
 
-![https://github.com/cloozo/Book-Search-Engine-2022](https://user-images.githubusercontent.com/84163696/153095489-a5b4669e-df79-477c-addd-72616b49b09c.png)
+![https://github.com/cloozo/Book-Search-Engine-2022]
+![Screen Shot 2022-02-16 at 10 23 24 PM](https://user-images.githubusercontent.com/84163696/154398982-d3378d9e-3e3e-4a7d-b652-27a86ebf8780.png)
+
 
 ---
 # Technologies Used
