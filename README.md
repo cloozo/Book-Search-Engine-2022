@@ -11,11 +11,13 @@ SO THAT I can keep a list of books to purchase
 
 
 ## React Porfolio: 
-Link to my github repo-> (https://github.com/cloozo/Book-Search-Engine-2022/tree/master)
+Link to my github repo-> (https://github.com/cloozo/Book-Search-Engine-2022)
 ## Direct Link to Deployed App: 
-Link to deployed App can be found here-> (https://fast-plains-24526.herokuapp.com)
+Link to deployed App can be found here-> (https://infinite-taiga-99118.herokuapp.com/)
 
-![https://github.com/cloozo/Book-Search-Engine-2022/tree/master](https://user-images.githubusercontent.com/84163696/153095489-a5b4669e-df79-477c-addd-72616b49b09c.png)
+
+![https://github.com/cloozo/Book-Search-Engine-2022](https://user-images.githubusercontent.com/84163696/153095489-a5b4669e-df79-477c-addd-72616b49b09c.png)
+
 
 ---
 # Technologies Used
